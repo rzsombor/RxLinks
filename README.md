@@ -1,5 +1,5 @@
 # RxLinks
-A collection of useful beginner &amp; advanced level Rx materials.
+A growing collection of useful beginner &amp; advanced level Rx materials.
 
 
 ## Beginner level
